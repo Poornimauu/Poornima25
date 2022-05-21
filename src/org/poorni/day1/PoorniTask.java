@@ -5,6 +5,7 @@ public class PoorniTask {
 		String s = "Poornima";
 		String s1 = "poornima";
 		String s2 = " Welcome to java";
+		String s3 = "Welcome to Selenium Java";
 		//TO FIND LENGTH
 		int len = s.length();
 		System.out.println(len);
